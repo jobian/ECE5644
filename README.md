@@ -1,5 +1,6 @@
 # ECE5644 - Prof. Walid Saad
 Final Game Theory course project
+Demetrius Davis - Spring 2020
 
 Default (modifiable) settings:
 - Number of runs: 100 (each 'run' is a series of repeated games, ran until system failure)
